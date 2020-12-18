@@ -10,6 +10,7 @@ public class Calc {
 	}
 	public void multiply(int num1, int num2) {
 		System.out.println("Product is  = " + (num1 * num2));
+	
 	}
 	
 }
