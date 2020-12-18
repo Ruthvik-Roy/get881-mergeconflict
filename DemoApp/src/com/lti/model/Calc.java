@@ -14,9 +14,8 @@ public void division(int num1, int num2) {
 		System.out.println("Difference = " + (num1 / num2));
 	}	
 
-public void show() {
-	System.out.println("hi frnds");
+public void multiply(int num1, int num2) {
+	System.out.println("<ultiplication = " + (num1 * num2));
 }	
-
 
 }
