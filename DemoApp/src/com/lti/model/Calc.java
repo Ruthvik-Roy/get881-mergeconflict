@@ -9,7 +9,7 @@ public class Calc {
 		System.out.println("Difference = " + (num1 - num2));
 	}
 	public void multiply(int num1, int num2) {
-		System.out.println("Product = " + (num1 * num2));
+		System.out.println("Product is  = " + (num1 * num2));
 	}
 	
 }
